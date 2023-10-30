@@ -1,0 +1,7 @@
+echo "# cvip_ds_akshay-45" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/AKSHAY94411/cvip_ds_akshay-45.git
+git push -u origin main
